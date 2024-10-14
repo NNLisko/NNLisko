@@ -6,6 +6,7 @@
 
 ## 🔨 What I'm upto 
 + Currently learnign DSA, Linux as well as web programming, as well as dipping into game engines and graphics
++ Learning Rust
 + At early phase of a game project in a small group 🎮
 + Goals
   + My first goal is to learn game design
