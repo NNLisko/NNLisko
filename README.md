@@ -4,7 +4,7 @@
 + First year student at LUT university
 + 20 Years old
 
-## What I'm upto 🔨
+## 🔨 What I'm upto 
 + Currently learnign DSA, Linux as well as web programming, as well as dipping into game engines and graphics
 + At early phase of a game project in a small group 🎮
 + Goals
