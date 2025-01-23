@@ -5,8 +5,9 @@
 + 20 Years old
 
 ## 🔨 What I'm upto 
-+ Currently learnign DSA, Linux as well as web programming, as well as dipping into game engines and graphics
++ Currently learning JAVA and implementing databases, as well as dipping into game engines and graphics
 + Learning Rust
++ Working on a Discord bot
 + At early phase of a game project in a small group 🎮
 + Goals
   + My first goal is to learn game design
