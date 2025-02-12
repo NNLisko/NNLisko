@@ -10,7 +10,6 @@
 + Learning Rust
 
 ## Working on
-+ Working on a Discord bot
 + Small projects
 
 ## Goals
