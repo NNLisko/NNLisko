@@ -6,11 +6,11 @@
 + 20 Years old
 
 ## 🔨 Learning
-+ Currently learning JAVA and implementing databases, as well as dipping into game engines and graphics
++ Currently learning JAVA and implementing databases, as well as looking into game engines and graphics
++ Android studio
 + Learning Rust
 
 ## Working on
-+ Small projects
 
 ## Goals
   + My primary goal is to learn game design
