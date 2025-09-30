@@ -5,11 +5,10 @@
 + Software Systems and Engineering
 + 21 Years old
 
-## 🔨 Learning
+## 🔨 Learning about
++ Data processing
++ Computer networking
 
-
-## Working on
-
-## Goals
-
-  
+## Languages
++ C#, Python, Java
++ Learning more Rust
